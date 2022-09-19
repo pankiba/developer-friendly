@@ -5,7 +5,7 @@
  - [**Explain TDD Approach ?**](Architectural-Questions.md#explain-tdd-approach-)
  - [**Explain Design Patterns ?**](Architectural-Questions.md#explain-design-patterns-)
  - [**How to design low latency & scalable applications ?**](Architectural-Questions.md#how-to-design-low-latency-and-scalable-applications-)
- - [**Explian 12 factor app principles ?**](Architectural-Questions.md#explian-12-factor-app-principles-)
+ - [**Explain 12 factor app principles ?**](Architectural-Questions.md#explian-12-factor-app-principles-)
  - [**How sessions are handled in web applications ?**](Architectural-Questions.md#how-sessions-are-handled-in-web-applications-)
  - [**Design Principles for scalable applications ?**](Architectural-Questions.md#design-principles-for-scalable-applications-)
  - [**How to handle refrential integrity while designing microservice/s database ?**](Architectural-Questions.md#how-to-handle-refrential-integrity-while-designing-microservices-database-)
