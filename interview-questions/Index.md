@@ -1,5 +1,6 @@
 ### Interview Questions
 
+
 #### Architectural Questions
  - [**Explain SOLID principle ?**](Architectural-Questions.md#explain-solid-principle-)
  - [**Explain TDD Approach ?**](Architectural-Questions.md#explain-tdd-approach-)
@@ -21,6 +22,7 @@
 
 #### AWS Questions
 
+
 #### Core-Java Questions
  - [**Explain OOPS Concept ?**](Core-Java-Questions.md#explain-oops-concept-)
  - [**What is Association, aggregation, and composition in OOP’s ?**](Core-Java-Questions.md#what-is-association-aggregation-and-composition-in-oops-)
@@ -29,13 +31,13 @@
  - [**Explain comparator & comparable interfaces, what's usage of them ?**](Core-Java-Questions.md#explain-comparator--comparable-interfaces-whats-usage-of-them-)
  - [**Why String is Immutable/Final in Java ?**](Core-Java-Questions.md#why-string-is-immutablefinal-in-java-)
  - [**Why do we need to override equals and hashcode methods in Java ?**](Core-Java-Questions.md#why-do-we-need-to-override-equals-and-hashcode-methods-in-java)
- - java.utils package
- - Have you used functional interfaces, explain the use case ?
- - Calculate the sum of salary of employees of specific dept with service greater than 5 years. How you will do using Streams ?
- - limit vs skip in streams ?
- - Which JDK features in 17/11 ?
- - Best sorting algorithm in Java ?
- 
+ - [**Explain java.utils package ?**](Core-Java-Questions.md#explain-javautils-package-)
+ - [**Have you used functional interfaces, explain the use case ?**](Core-Java-Questions.md#have-you-used-functional-interfaces-explain-the-use-case-)
+ - [**There is list of employee, calculate the sum of salary of employees of specific dept/grade with service greater than 5 years. How you will do using Streams ?**](Core-Java-Questions.md#there-is-list-of-employee-calculate-the-sum-of-salary-of-employees-of-specific-deptgrade-with-service-greater-than-5-years-how-you-will-do-using-streams-)
+ - [**Explain limit vs skip methods in streams ?**](Core-Java-Questions.md#explain-limit-vs-skip-methods-in-streams-)
+ - [**Which new JDK features in 11/17 ?**](Core-Java-Questions.md#which-new-jdk-features-in-1117-)
+ - [**Explain sorting algorithms used in JDK, explain the best sorting algorithm in Java ?**](Core-Java-Questions.md#explain-sorting-algorithms-used-in-jdk-explain-the-best-sorting-algorithm-in-java-)
+
 
 #### Microservices Questions
  - [**What are the advantages of Microservices Architecture ?**](Microservices-Questions.md#what-are-the-advantages-of-microservices-architecture-)
@@ -50,6 +52,7 @@
  - How to design microservices from monolithic ?
  - Design principles for microservices ?
 
+
 #### Spring Framework Questions
  - [**Exception handling in Spring Boot ?**]
  - [**spring MVC flow**]
@@ -59,10 +62,12 @@
  - How to configure multiple datasources in Spring ?
  - Yaml vs application.properties
 
+
 #### Hazelcast Questions
  - [**Expalin how clustering works in hazelcast ?**]
  - [**How sharding/replicas maintain in hazelcast ?**]
  - [** What serialization technique you used in hazelcast ?**]
+
 
 #### GitHub Questions
  - Common problems developers face ?
