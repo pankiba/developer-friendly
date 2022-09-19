@@ -80,4 +80,4 @@
 
 #### **Which new JDK features in 11/17 ?**
 
-#### **Explain sorting alogorithms used in JDK, explain the best sorting algorithm in Java ?**
+#### **Explain sorting algorithms used in JDK, explain the best sorting algorithm in Java ?**
