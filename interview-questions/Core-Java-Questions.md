@@ -69,3 +69,15 @@
     - **Internal consistency:** the value of hashCode() may only change if a property that is in equals() changes
     - **Equals consistency:** objects that are equal to each other must return the same hashCode
     - **Collisions:** unequal objects may have the same hashCode
+
+#### **Explain java.utils package ?**
+
+#### **Have you used functional interfaces, explain the use case ?**
+
+#### **There is list of employee, calculate the sum of salary of employees of specific dept/grade with service greater than 5 years. How you will do using Streams ?**
+
+#### **Explain limit vs skip methods in streams ?**
+
+#### **Which new JDK features in 11/17 ?**
+
+#### **Explain sorting alogorithms used in JDK, explain the best sorting algorithm in Java ?**
