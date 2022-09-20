@@ -54,21 +54,21 @@
 
 
 #### Spring Framework Questions
- - [**Exception handling in Spring Boot ?**]
- - [**spring MVC flow**]
- - [How annotations are getting processed?]
- - [Can we replace @Service annotaion with @Component?]
- - [How spring boot autoconfigurations work. How component scaning works ?]
- - How to configure multiple datasources in Spring ?
- - Yaml vs application.properties
+ - [**Exception handling in Spring Boot ?**]()
+ - [**spring MVC flow**]()
+ - [**How annotations are getting processed internally ?**]()
+ - [**Can we replace @Service annotaion with @Component annotation ?**]()
+ - [**How spring boot autoconfigurations work. How component scaning works ?**]()
+ - [**How to configure multiple datasources in Spring ?**]()
+ - [**Yaml vs application.properties, which one we should use ?**]()
 
 
 #### Hazelcast Questions
- - [**Expalin how clustering works in hazelcast ?**]
- - [**How sharding/replicas maintain in hazelcast ?**]
- - [** What serialization technique you used in hazelcast ?**]
+ - [**Expalin how clustering works in hazelcast ?**]()
+ - [**How sharding/replicas maintain in hazelcast ?**]()
+ - [**Which serialization technique you used in hazelcast ?**]()
 
 
 #### GitHub Questions
- - Common problems developers face ?
- - How to do cherrypicking ?
+ - [**What are the common problems faced by developers while using GIT ?**]()
+ - [**How to do cherrypicking ?**]()
