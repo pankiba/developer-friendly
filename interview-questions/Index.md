@@ -44,13 +44,13 @@
  - [**Explain why RESTful API is stateless services ?**](Microservices-Questions.md#explain-why-restful-api-is-stateless-services-)
  - [**How to design scalable microservices ?**](Microservices-Questions.md#how-to-design-scalable-microservices-)
  - [**What are the best practices to design microservices ?**](Microservices-Questions.md#what-are-the-best-practices-to-design-microservices-)
- - [**Difference between SOAP vs REST ?**]
- - [**How different microservices then normal service/s ?**]
- - [**How to break/refactor the monolithic to microservice?**]
- - [**How microservices communicate with each other ?**]
- - [**How to handle distributed transactions in microservice/s ?**] 
- - [**Explain asynchronous messages/communications between microservice, how to acheive it ?**]
- - [**Design principles for microservices ?**]
+ - [**Difference between SOAP vs REST ?**]()
+ - [**How different microservices then normal service/s ?**]()
+ - [**How to break/refactor the monolithic to microservice?**]()
+ - [**How microservices communicate with each other ?**]()
+ - [**How to handle distributed transactions in microservice/s ?**]() 
+ - [**Explain asynchronous messages/communications between microservice, how to acheive it ?**]()
+ - [**Design principles for microservices ?**]()
 
 
 #### Spring Framework Questions
