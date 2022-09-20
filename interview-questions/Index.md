@@ -16,7 +16,7 @@
  - [**What's the process you follow while architecting technical solution ?**](Architectural-Questions.md#whats-the-process-you-follow-while-architecting-technical-solution-)
  - [**What are different architecting styels ?**](Architectural-Questions.md#what-are-different-architecting-styels-)
  - [**What is CAP theorm ?**](Architectural-Questions.md#what-is-cap-theorm-)
- - [**What is the difference between Concurrency & Multithreading ?**]
+ - [**What is the difference between Concurrency & Multithreading ?**]()
 
 
 #### AWS Questions
