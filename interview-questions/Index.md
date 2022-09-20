@@ -16,8 +16,7 @@
  - [**What's the process you follow while architecting technical solution ?**](Architectural-Questions.md#whats-the-process-you-follow-while-architecting-technical-solution-)
  - [**What are different architecting styels ?**](Architectural-Questions.md#what-are-different-architecting-styels-)
  - [**What is CAP theorm ?**](Architectural-Questions.md#what-is-cap-theorm-)
- - [How you split the microservices from monolithic ?]
- - How microservices communicate with each other ?
+ - [**What is the difference between Concurrency & Multithreading ?**]
 
 
 #### AWS Questions
@@ -47,10 +46,11 @@
  - [**What are the best practices to design microservices ?**](Microservices-Questions.md#what-are-the-best-practices-to-design-microservices-)
  - [**Difference between SOAP vs REST ?**]
  - [**How different microservices then normal service/s ?**]
- - distributed transactions in microservice 
- - asynchronous messages/communications between microservice ?
- - How to design microservices from monolithic ?
- - Design principles for microservices ?
+ - [**How to break/refactor the monolithic to microservice?**]
+ - [**How microservices communicate with each other ?**]
+ - [**How to handle distributed transactions in microservice/s ?**] 
+ - [**Explain asynchronous messages/communications between microservice, how to acheive it ?**]
+ - [**Design principles for microservices ?**]
 
 
 #### Spring Framework Questions
