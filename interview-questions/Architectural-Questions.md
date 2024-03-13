@@ -42,6 +42,15 @@
     - Difficult to test GUI based applications
     - Need additional time to write/maintain test classes
 
+#### Desgin patterns defini
+
+Factory Method — A creational design pattern that provides an Interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+Abstract Factory Method — A creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+Builder — A creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+Singleton — A creational design pattern that lets you ensure that a class has only one instance while providing a global access point to this instance.
+Prototype — A creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+
+
 #### **Explain Design Patterns ?**
   - **Creational Patterns**
     - **Factory**
