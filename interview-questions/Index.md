@@ -17,6 +17,14 @@
  - [**What are different architecting styels ?**](Architectural-Questions.md#what-are-different-architecting-styels-)
  - [**What is CAP theorm ?**](Architectural-Questions.md#what-is-cap-theorm-)
  - [**What is the difference between Concurrency & Multithreading ?**]()
+ - [**Explain different architectural patterns and benefits of each and use cases ?**]()
+ - [**What is hexagonal architectural ?**]()
+ - [**What is CI/CD, explain each part in detail what is CI & CD ?**]()
+ - [**What is DDD, explain in detail ?**]()
+ - [**Process to convert monolith into microservice ?**]()
+ - [**What is Serverless ?**]()
+ - [**What is DevSecOps, explain in detail ?**]()
+
 
 
 #### AWS Questions
@@ -51,6 +59,11 @@
  - [**How to handle distributed transactions in microservice/s ?**]() 
  - [**Explain asynchronous messages/communications between microservice, how to acheive it ?**]()
  - [**Design principles for microservices ?**]()
+ - [**Explain monolith vs microservie ?**]()
+ - [**When can we use monolith architecure, explain use cases?**]()
+ - [** ?**]()
+ - [** ?**]()
+
 
 
 #### Spring Framework Questions
