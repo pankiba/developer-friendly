@@ -191,6 +191,15 @@
       - HttpSession Api
   
 #### **Design Principles for scalable applications ?**
+  - Take an API-first approach
+  - Cache as much data as is feasible
+  - Adopt multi-tier software architecture
+  - Opt for microservices over monoliths
+  - Continuously observe key metrics
+    - CPU and memory use, network throughput, and latency
+  - Use the right type of database
+  - Leverage CI/CD
+    - reate and iterate faster and scale our applications quickly    
   
 #### **How to handle refrential integrity while designing microservice/s database ?**
   
